@@ -24,3 +24,7 @@ Azure Load Balancer is a highly available, fully managed service that distribute
 - Internal - (Private)	Distribute traffic within a Virtual Network (VNet) - Private only
 
 There are also Basic and Standard SKUs, with Standard offering more features, reliability, and integration options
+
+## Setup 
+
+<img width="1039" height="590" alt="Screenshot 2025-07-22 at 8 54 48 PM" src="https://github.com/user-attachments/assets/d0aa8fd6-b323-4e9c-a0f9-9580504a1b19" />
